@@ -1,0 +1,143 @@
+*{
+	padding:0;
+	margin: 0;
+	font: caption;
+}
+.navbar{
+	
+	height: 75px;
+    background:#1ebea5;
+    padding-top: 17px;
+
+}
+
+.logo{
+	margin-left: 176px;
+	height: 59px;
+	width: 158px;
+}
+.menu{
+	margin: 23px;
+    margin-right: 427px;
+	float: right;
+}
+.menu a{
+	margin-left: 45px;
+    font-size: 15px;
+	text-decoration: none;
+	color:#ffffff;
+}
+.content{
+	font-family: -webkit-pictograph;
+	width: 480px;
+	height: 440px;
+	float: left;
+    margin-top: 215px;
+    margin-left: 300px;
+}
+.content a{
+	text-decoration: none;
+	color:#1ebea5;
+	line-height: 2.5;
+}
+.mobile{
+	margin-right: 300px;
+    float: right;
+    height: 594px;
+    width: 319px;
+    margin-top: 62px;
+}
+.box{
+	float: left;
+    width: 679px;
+    height: 700px;
+   
+    margin-top: 70px;
+    margin: 40px;
+}
+.box h2{
+	padding:20px;
+	font-size: 30px;
+}
+.box p{
+	text-align: center;
+	margin: auto;
+    line-height: 1.5;
+    width: 605px;
+}
+.box a{
+	text-decoration:none;
+	color:#39b3ed; 
+}
+.box1img{
+	height: 445px;
+	width: 416px;
+	margin-left: 137px;
+    margin-top: 15px;
+}
+
+.box2img{
+	border-radius: 153px;
+    height: 300px;
+    width: 345px;
+    margin: 50px;
+
+}
+
+.explorebutton {
+    margin-left: 630px;
+    margin-bottom: 50px;
+    height: 69px;
+    width: 274px;
+    background: #ffffff;
+    float: left;
+    border-width: 2px;
+    border-radius: 50px;
+    border-color:#1ebea5;
+    color:#1ebea5;
+    font-weight: bold; 
+}
+.footer{
+	background: #273443;
+	height: 300px;
+	width: 100%;
+	float: left;
+	margin: auto;
+}
+.f3{
+	height: 286px;
+    width: 900px;
+    margin-left: 327px;
+
+}
+.footerthird{
+	/*background: orange;*/
+
+    height: 250px;
+    width: 180px;
+    float: left;
+    margin-left: 31px;
+    font-size: small;
+    margin-top: 46px;
+    color: rgba(255, 255, 255, .6);
+    
+}
+.footerthird a{
+	text-decoration: none;
+	font-size: 15px;
+    line-height: 2;
+    margin: 1px;
+    color:#ffffff;
+}
+.belowfooter{
+	background: #232f3c;
+	width: 100%;
+	margin: auto;
+	height:60px;
+	float: left;
+}
+.belowfooter a{
+	text-decoration:none;
+	color:#ffffff;
+
+}

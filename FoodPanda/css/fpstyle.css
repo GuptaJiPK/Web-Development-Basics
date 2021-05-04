@@ -1,0 +1,185 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+.header{
+	height: 66px;
+	width: 100%;
+	/*background:pink;*/
+}
+.headercontainer{
+	margin: auto;
+	height: 56px;
+	width: 1250px;
+	/*background:green;*/
+}
+.logocontainer{
+	height: 36px;
+	width: 137px;
+	padding: 10px;
+	margin-left: 25px;
+	/*background: blue;*/
+}
+.logo{
+	height: 30px;
+	width: 133px;
+	margin-top: 10px;
+}
+.menu{
+	height: 56px;
+    width: 30%;
+    /* background: red; */
+    float: right;
+    margin-top: -45px;
+    line-height: 56px;
+}
+.menulist{
+	line-height: 56px;
+    height: 56px;
+    display: inline-block;
+    /*background: yellow;*/
+    margin: auto;
+    width: 85px; 
+    color: #d70f64;
+    font-size: 16px;
+    font-weight: 500;
+    
+}
+.banner1{
+	width: 100%;
+	height: 1100px;
+	background: url('../image/model1.jpg');
+	background-size: cover;
+	background-position: center;
+	
+	font-family: "museo-sans", sans-serif; 
+}
+.b1text{
+	font-size: 29px;
+    position: relative;
+    top: 490px;
+    left: 234px;
+    color:#fff;
+}
+.countriesdiv{
+	background: rgba(0, 0, 0, 0.3);
+	height:45px;
+	position: relative;
+    top: 990px;
+    padding: 10px;
+}
+.countriesdiv h3{
+	color:#fff;
+	font-size: 12px;
+    position: relative;
+    left: 140px;
+}
+.countries{
+	float: left;
+	width: 100%;
+    height: 50px;
+}
+.countries ul{
+	margin: auto;
+    width: 820px;
+    padding: 10px;
+    position: relative;
+    top: -25px;
+}
+.countries ul li{
+	display: inline-block;
+	margin:5px; 
+}
+.countries ul li img{
+	border-radius: 2px;
+	height: 30px;
+	width: 44px;
+}
+.aboutus{
+	width: 100%;
+	height: 800px;
+	background: #ffffff;
+	margin-top: 22px;
+}
+.abouttext{
+	margin: auto;
+	height: 200px;
+	width: 690px;
+	position: relative;
+	top: 300px;
+}
+.abouttext button{
+	background: #d70f64;
+	border: none;
+    height: 55px;
+    width: 33%;
+    color: #fff;
+}
+.career{
+	width: 100%;
+	height: 800px;
+	background: url("../image/rider.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+}
+.careertext{
+	margin: auto;
+	height: 200px;
+	width: 690px;
+	position: relative;
+	top: 300px;
+}
+.careertext button{
+	background: #d70f64;
+	border: none;
+    height: 55px;
+    width: 33%;
+    color: #fff;
+}
+.press{
+	width: 100%;
+	height: 400px;
+	background: url("../image/pressBG.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+}
+.presstext{
+	margin: auto;
+	height: 200px;
+	width: 690px;
+	position: relative;
+	top: 120px;
+}
+.presstext button{
+	background: #d70f64;
+	border: none;
+    height: 55px;
+    width: 33%;
+    color: #fff;
+}
+.contact{
+	width: 100%;
+	height: 400px;
+	background: #d70f64;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+}
+.contacttext{
+	margin: auto;
+	height: 200px;
+	width: 690px;
+	position: relative;
+	top: 120px;
+}
+.contacttext button{
+	background: #ffffff;
+	border: none;
+    height: 55px;
+    width: 33%;
+    color: #d70f64;
+}
